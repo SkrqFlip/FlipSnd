@@ -1,1 +1,3 @@
-# Sndtestdeepseek
+# FlipSnd
+короче забабахал нашумевший "soundtag"
+вроде получилось норм
